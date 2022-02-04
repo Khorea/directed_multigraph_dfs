@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643986238 source:c:\users\ontegra solutions\documents\directed_multigraph\main.c
+	<stdio.h>
+	<stdlib.h>
+
